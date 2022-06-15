@@ -4,16 +4,16 @@
 
 # First-week-on-github
 
-GitHub Pages 
+**GitHub Pages**
 - The things i learn more about this GitHub pages is how to costumize a homepage and edit a repository , And also of how to create a blog post and add blog post .
 
-Reviewing pull request 
+**Reviewing pull request**
 - I learn how to review a pull request  by just summarizing a feedback on the proposed changes comment on a pull request, Apply a suggestion and approve a pull request and after the approval of the request you can merge the pull request. 
 
-Managing merge conflicts
+**Managing merge conflicts**
 - I learn how to resolve a conflict by just clicking the resolve button and fix the conflict and i also know how to resolve a conflict  in a more complex pull request. And i also know of how to make my own conflict.
 
-Securing your workflows
+**Securing your workflows**
 - Securing a workflows is of how to find repository vulnerabilities dependecies first click the insight tab in the repository and click the dependency graph and after that you can also update the dependency version. 
 
  
