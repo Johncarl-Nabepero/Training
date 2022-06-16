@@ -14,6 +14,10 @@
 
 - Database are keep a migrations, build tables, and manage tables here.
 
+**Config**
+
+- This is where the configurations are kept.
+
 **Routes**
 
 - routes are defined in your route files, which are located in the routes directory.
