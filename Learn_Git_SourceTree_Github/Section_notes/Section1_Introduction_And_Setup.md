@@ -1,4 +1,4 @@
-# Section Intro
+# Section Insights
   
 **GIT**
 
