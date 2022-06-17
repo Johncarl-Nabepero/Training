@@ -27,7 +27,8 @@
             $table->rememberToken();
             $table->timestamps();
         });
-    }```
+    }
+
 
 
    

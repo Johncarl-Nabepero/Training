@@ -1,5 +1,11 @@
 ## Section Insights
 
+**Dealing with database using**
+- Insert
+- Read
+- update
+- delete
+
 ```
 Inserting Data Example Code
 
@@ -11,7 +17,7 @@ Inserting Data Example Code
 
 Reading Data Example Code
 
-```Route::get('/read', function()
+Route::get('/read', function()
 {
         $results = DB::select('select * from post');
         foreach ($results as $post){

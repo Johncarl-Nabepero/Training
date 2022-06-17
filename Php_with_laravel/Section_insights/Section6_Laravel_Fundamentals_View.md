@@ -17,4 +17,4 @@ Here is the example code of passing data to views
   
   {
   return view('post',compact('id'));
-  }```
+  }

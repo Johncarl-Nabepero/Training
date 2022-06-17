@@ -42,3 +42,13 @@ Route::get('/update',function(){
 
 });
 
+Softdeleting / Trashing
+
+Route::get('/softdelete',function(){
+   
+     Post::find(1)->delete();
+
+
+});
+
+

@@ -15,3 +15,4 @@
 **Passing Data**
 
 - Passing data is the way you pass a data from route to controller.
+

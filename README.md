@@ -35,3 +35,17 @@
 - [Section9_Laravel_Fundamentals_RawSQL](Php_with_laravel/Section_insights/Section9_Laravel_Fundamentals_RawSQL.md)
 
 - [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section11_Laravel_Fundamentals__Eloquent_Relationshipmd](Php_with_laravel/Section_insights/Section11_Laravel_Fundamentals__Eloquent_Relationshipmd.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
+
+- [Section10_Laravel_Fundamentals_Eloquent_or_ORM](Php_with_laravel/Section_insights/Section10_Laravel_Fundamentals_Eloquent_or_ORM.md)
