@@ -1,17 +1,3 @@
-## Section Insights and Example Code
-
-**Installing package and testing**
-
-"require": {
-    "laravelcollective/html": "5.2.*"
-}
-
-- Enter this in your composer.json
-
-- Then after that composer update.  
-
-**Creating form with the form package**
-
 ```
 @extends('layouts.app')
 

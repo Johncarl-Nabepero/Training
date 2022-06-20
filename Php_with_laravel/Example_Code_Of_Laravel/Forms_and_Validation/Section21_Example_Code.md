@@ -1,6 +1,3 @@
-## Section Insights and Example code 
-
-**Example of a regular form for files**
 ```
 <form action="/uploadfile" method="post" enctype="multipart/form-data">
     @csrf
@@ -11,7 +8,7 @@
 </form>
 ```
 
-**Modifying create view for file**
+
 
 ```
 <h1>Create Post</h1>

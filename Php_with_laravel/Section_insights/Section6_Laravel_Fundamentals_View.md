@@ -1,4 +1,4 @@
-## Section Insights 
+## Section Insights and Example code
 
 **Views**
 

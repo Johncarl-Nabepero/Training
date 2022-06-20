@@ -1,11 +1,3 @@
-## Section Insights and Example Code
-
-**Dealing with database using**
-- Insert
-- Read
-- update
-- delete
-
 ```
 //Inserting Data Example Code
 

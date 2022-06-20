@@ -1,7 +1,3 @@
-## Section Insights and Example Code
-
-**Dates**
-
 ```
 Route::get('/dates', function()
 {    

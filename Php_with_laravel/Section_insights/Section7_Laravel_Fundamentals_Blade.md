@@ -1,4 +1,4 @@
-## Section Insights
+## Section Insights and Exanple Code
 
 **Blade**
 
@@ -8,7 +8,7 @@
 
 - A yield statement is similar to a return statement, except that instead of stopping execution of the function
 
-**Here is the sample code using yield**
+**Here is the example code using yield**
 
 ```</div class="containers">
 
