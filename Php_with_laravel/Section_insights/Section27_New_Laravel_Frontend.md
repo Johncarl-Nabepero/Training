@@ -2,6 +2,7 @@
 
 **Adding Bootstrap plus Login & Registration**
 
+**npm run dev will compile all your assets including a source map.**
 
 - composer require laravel/ui:^2.4
 

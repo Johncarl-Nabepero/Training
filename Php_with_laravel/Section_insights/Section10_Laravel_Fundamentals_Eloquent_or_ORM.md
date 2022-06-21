@@ -5,9 +5,10 @@
 - Eloquent is an object relational mapper (ORM) that is included by default within the Laravel framework.
 
 ```
-Reading data using eloquent
+//Reading data using eloquent
 
-Route::get('/read',function(){
+Route::get('/read',function()
+{
 
     foreach($posts as $post){
         return $post->title;
@@ -15,9 +16,10 @@ Route::get('/read',function(){
 
 });
 
-Inserting data using eloquent
+//nserting data using eloquent
 
-Route::get('/insert',function(){
+Route::get('/insert',function()
+{
    
      $post = Post::find(2);
 
@@ -29,9 +31,10 @@ Route::get('/insert',function(){
 
 });
 
-Updating with eloquent
+//Updating with eloquent
 
-Route::get('/update',function(){
+Route::get('/update',function()
+{
    
      $post::where('id',2)->where('is_admin', 0)->update(['title'=>'content'='Hello done updating']);
 
@@ -42,9 +45,10 @@ Route::get('/update',function(){
 
 });
 
-Softdeleting / Trashing
+//Softdeleting / Trashing
 
-Route::get('/softdelete',function(){
+Route::get('/softdelete',function()
+{
    
      Post::find(1)->delete();
 

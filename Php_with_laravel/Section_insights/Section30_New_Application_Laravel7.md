@@ -2,13 +2,9 @@
 
 **Creating new laravel project**
 
-- Name it **new-cms-system**
-
-- Download package given by the first video . 
+- This section is more about of how to start a project by using this zip given by the instructor.
 
 - `new-cms-system.zip`  `project-assets.zip` `blog-post.css.zip`
-
-- Dropping download zip to my laravel project 
 
 - Drop index.html from `projectassets\blog-home` to my laralel project `app\resource\views\components\home.master.blade.php` and modify it . 
 

@@ -6,9 +6,7 @@
     "laravelcollective/html": "5.2.*"
 }
 
-- Enter this in your composer.json
-
-- Then after that composer update.  
+- Composer.json required code
 
 **Creating form with the form package**
 

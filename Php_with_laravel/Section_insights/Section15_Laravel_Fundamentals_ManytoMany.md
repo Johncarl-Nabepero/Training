@@ -1,14 +1,10 @@
 ## Section Insights and Example Code 
 
-**Many to Many Relationship**
+**Eloquent Many to Many Relationship**
 
 - A many-to-many relationship occurs when multiple records in a table are associated with multiple records in another table.
 
-1. Create a new Laravel installation called manytomany
-
-2 Create a database with the same name manytomany
-
-3. Make sure your database setting is in your .env file so that you may connect to it of course.
+**HERE IS THE EXAMPLE CODE**
 
 ```
 //Creating data
@@ -74,7 +70,7 @@ Route::get('/detach', function()
 
     $user = User::findOrFail(1);
     $user->roles()->detach(3);
-    
+
 });
 
 //Sync a user

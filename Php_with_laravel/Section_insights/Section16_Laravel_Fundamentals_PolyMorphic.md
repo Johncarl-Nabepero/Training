@@ -4,15 +4,6 @@
 
 - A polymorphic relationship is where a model can belong to more than one other model on a single association.
 
-**Summary**
-
-- Creating a Laravel Project with the database, 3 models, and 3 migrations.
-
-1. Create a new Laravel installation called polymorphic
-
-2. Create a database with the same name polymorphic
-
-3. Create 3 models, Staff, Product, and Photo; here is a reminder of how we do that below
 
 `php artisan make:model Staff -m `
 
@@ -20,7 +11,7 @@
 
 `php artisan make:model Photo -m`
 
-Here is the example code 
+**HERE IS THE EXAMPLE CODE**
 
 
 ```

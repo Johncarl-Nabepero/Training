@@ -1,15 +1,11 @@
 ## Setion Insight and Example Code
 
-**One to Many Relationship**
+**Eloquent One to Many Relationship**
 
 - In a one-to-many relationship, one record in a table can be associated with one or more records in another table.
 
-1. Create a new Laravel installation called onetomany
 
-2. Create a database with the same name onetomany
-
-3. Make sure your database setting is in your .env file so that you may connect to it of course.
-
+**HERE IS THE EXAMPLE CODE**
 
 ```
 //Creating data
@@ -20,7 +16,8 @@ Route::get('/create/{title}/{body}', function ($title,$body)
     $post = new Post(['title'=>$title,'New title '=> $body]);
 
     $user->posts()->save($post);
-    foreach($user->posts as $posts){
+    foreach($user->posts as $posts)
+    {
         return ("Done Creating post :"). $posts->title. (""). $posts->body;
     }
  
@@ -30,8 +27,10 @@ Route::get('/create/{title}/{body}', function ($title,$body)
 
 Route::get('/read', function () {
     $user = User::findOrFail(1);
-    foreach($user->posts as $post){
-        echo $post->title. "<br>";
+    foreach($user->posts as $post)
+    {
+        echo $post->title.
+         "<br>";
     }
     
 });

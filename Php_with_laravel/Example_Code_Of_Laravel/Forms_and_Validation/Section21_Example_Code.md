@@ -6,11 +6,11 @@
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-```
 
 
+//Modifying create view for file
 
-```
+
 <h1>Create Post</h1>
 
  {!! Form::open(['method'=>'POST', 'action'=>'PostController' 'files'=>true]) !!}
