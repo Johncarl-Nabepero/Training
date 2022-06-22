@@ -1,4 +1,4 @@
-## Section Insights and Exanple Code
+## Section Insights and Example Code
 
 **Blade**
 
