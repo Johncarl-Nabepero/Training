@@ -1,10 +1,13 @@
 ## Section Insights and Example Code
 
 **Dealing with database using**
-- Insert
-- Read
-- update
-- delete
+- Insert - Inserting data to the database
+
+- Read - Reading data from the database
+
+- Update - Updating data from the database
+
+- Delete - Deleting data from the database
 
 ```
 //Inserting Data Example Code

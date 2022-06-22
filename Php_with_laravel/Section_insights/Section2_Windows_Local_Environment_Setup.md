@@ -6,7 +6,7 @@
 
 - Setup Xampp
 
-- Recomended Php Storm and Visual studi code
+- Recomended Php Storm and Visual studio code
 
 - Download Git
 
@@ -15,6 +15,10 @@
 - Download Composer 
 
 - Setup Composer
+
+**XAMPP**
+
+- Is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server.
 
 **Using Mysql**
 

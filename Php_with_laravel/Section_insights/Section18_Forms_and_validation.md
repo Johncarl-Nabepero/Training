@@ -1,6 +1,8 @@
 ## Section Insights and Example Code 
 
  **Setting up views and routes** 
+ 
+ -  Routes are defined in your route files, which are located in the routes directory.
 
  `Route::resource('/posts','PostsController');`
 

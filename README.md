@@ -74,6 +74,30 @@
 
 - [Section30_New_Application_Laravel7](Php_with_laravel/Section_insights/Section30_New_Application_Laravel7.md)
 
+- [Section31_New_Application_Roles_and_Permission](Php_with_laravel/Section_insights/Section31_New_Application_Roles_and_Permission.md)
+
+- [Section32_New_Application_Creating_User_Profile](Php_with_laravel/Section_insights/Section32_New_Application_Creating_User_Profile.md)
+
+- [Section33_New_Application_Admin_User](Php_with_laravel/Section_insights/Section33_New_Application_Admin_User.md)
+
+- [Section34_New_Application_User_Profile_Roles](Php_with_laravel/Section_insights/Section34_New_Application_User_Profile_Roles.md)
+
+- [Section35_New_Application_Crud](Php_with_laravel/Section_insights/Section35_New_Application_Crud.md)
+
+- [Section36_Application_Legacy](Php_with_laravel/Section_insights/Section36_Application_Legacy.md)
+
+- [Section37_Post_Legacy_Version](Php_with_laravel/Section_insights/Section37_Post_Legacy_Version.md)
+
+- [Section38_Application_Categories_Legacy](Php_with_laravel/Section_insights/Section38_Application_Categories_Legacy.md)
+
+- [Section39.Application_Media_Legacy](Php_with_laravel/Section_insights/Section39.Application_Media_Legacy.md)
+
+- [Section30_New_Application_Laravel7](Php_with_laravel/Section_insights/Section30_New_Application_Laravel7.md)
+
+- [Section40_Application_Comments_Legacy](Php_with_laravel/Section_insights/Section40_Application_Comments_Legacy.md)
+
+- [Section41_Extra_Features_Legacy](Php_with_laravel/Section_insights/Section41_Extra_Features_Legacy.md)
+
 ## PHP WITH LARAVEL EXAMPLE CODE 
    **Eloquent Relationship**
 - [Section10_Example_Code](Php_with_laravel/Example_Code_Of_Laravel/Eloquent_Relationship/Section10_Example_Code.md)

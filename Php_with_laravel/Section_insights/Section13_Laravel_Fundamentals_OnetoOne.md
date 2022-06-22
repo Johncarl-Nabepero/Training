@@ -4,7 +4,6 @@
 
 - In a one-to-one relationship, one record in a table is associated with one and only one record in another table.
 
-
 ```
    // Creating data
 

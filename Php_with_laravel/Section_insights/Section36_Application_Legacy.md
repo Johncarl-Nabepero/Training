@@ -2,4 +2,8 @@
 
 - I create new project and i configure database 
 
-- This section is about of how to set up the views and make a migration .
+- The project name that i make is `codehacking`
+
+**Version Control**
+
+- The method of recording and controlling changes to software code is known as version control, or source control.

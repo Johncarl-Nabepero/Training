@@ -1,6 +1,9 @@
 ## Section Insights and Example code 
 
 **Example of a regular form for files**
+
+- This section teach us of how to retrieve a file data and modify a create view .
+
 ```
 <form action="/uploadfile" method="post" enctype="multipart/form-data">
     @csrf

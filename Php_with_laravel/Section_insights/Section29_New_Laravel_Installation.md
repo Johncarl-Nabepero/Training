@@ -2,7 +2,9 @@
 
 **Creating components**
 
-- In the App\Resources\Views make a folder name Components then make `master.blade.php`
+- In the App\Resources\Views i learn how to make a folder name Components then make `master.blade.php`.
+
+- Sections, layouts, and inclusions all give similar benefits; nevertheless, some people may find the mental model of components and slots easier to grasp. Components can be written in two ways: class-based components and anonymous components.
 
 ```
 <?php

@@ -4,6 +4,8 @@
 
 - Eloquent is an object relational mapper (ORM) that is included by default within the Laravel framework.
 
+- Object-relational mapping (ORM) is a mechanism that makes it possible to address, access and manipulate objects without having to consider how those objects relate to their data sources.
+
 ```
 //Reading data using eloquent
 
