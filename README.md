@@ -126,7 +126,7 @@
 
 - [Section9_Example_Code](Php_with_laravel/Example_Code_Of_Laravel/Raw_Sql_Queries/Section9_Example_Code.md)
 
-  **Hand On With Docker**
+  **Hands On With Docker**
 
 - [Section1_Docker_Right_For_You](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section1_Docker_Right_For_You.md)
 
@@ -136,7 +136,11 @@
 
 - [Section4_Installing_Docker](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section4_Installing_Docker.md)
 
+- [Section5_Discovering_Docker](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section5_Discovering_Docker.md)
 
+- [Section6_Docker_In_The_Real_World](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section6_Docker_In_The_Real_World.md)
+
+- [Section7_Docker_Compose_In_The_Real_World](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section7_Docker_Compose_In_The_Real_World.md)
 
 
 

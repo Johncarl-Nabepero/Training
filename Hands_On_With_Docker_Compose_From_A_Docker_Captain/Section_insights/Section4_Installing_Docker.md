@@ -12,7 +12,7 @@
 
 - For installing docker make sure that your machine have compatible hardware. 
 
-- Need to meet all of the requirements
+- Need to meet all of the requirements.
 
 **Click this if you want to install an docker in your windows desktop**
 
