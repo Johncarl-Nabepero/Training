@@ -43,7 +43,7 @@ volumes:
 
 - `$docker-compose ps` - this is the list of containers.
 
-- `$docker-compose restar`t` - Restart a containers.
+- `$docker-compose restart` - Restart a containers.
 
 - `$docker-compose stop` - Stopping a services
 

@@ -142,6 +142,6 @@
 
 - [Section7_Docker_Compose_In_The_Real_World](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section7_Docker_Compose_In_The_Real_World.md)
 
+- [Section8_Dockerizing_Web_Application](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section8_Dockerizing_Web_Application.md)
 
-
-
+- [Section9_Next_Deploying_Scaling](Hands_On_With_Docker_Compose_From_A_Docker_Captain/Section_insights/Section9_Next_Deploying_Scaling.md)
